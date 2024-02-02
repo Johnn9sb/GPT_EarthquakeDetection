@@ -1,2 +1,2 @@
-# GPT_EarthquakeDetection
-A Pioneer Study on Using ChatGPT with In-context Learning for Earthquake Detection
+# A Pioneer Study on Using ChatGPT with In-context Learning for Earthquake Detection
+Welcome to our repository, where we explore the groundbreaking intersection of advanced natural language processing (NLP) models and geophysical research. This project is at the forefront of leveraging ChatGPT, equipped with in-context learning capabilities, to enhance the detection and analysis of seismic activities.
